@@ -3,7 +3,7 @@
 ## Overview
 
 This assignment involves analyzing network traffic using basic network measurement tools and conducting a detailed analysis of a network traffic trace from a speed test using the M-Lab NDT7 tool.
-![][set.png]
+![][Screenshot from 2024-08-17 09-51-40.png]
 
 ## Contents
 
